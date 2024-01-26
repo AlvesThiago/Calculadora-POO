@@ -4,7 +4,7 @@ Este projeto consiste em uma calculadora desenvolvida em Java, implementada util
 
 A calculadora oferece funcionalidades básicas, incluindo operações de soma, subtração, multiplicação e divisão. Cada operação é encapsulada em uma classe específica, seguindo o conceito de encapsulamento da programação orientada a objetos. Isso promove a reutilização de código e facilita a adição de novas funcionalidades no futuro.
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Java: para o desenvolvimento da aplicação.
 
