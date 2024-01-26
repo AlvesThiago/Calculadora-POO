@@ -1,4 +1,4 @@
-#Calculadora POO MJV School Java
+# Calculadora POO MJV School Java
 
 Este projeto consiste em uma calculadora desenvolvida em Java, implementada utilizando os princípios da programação orientada a objetos. O objetivo principal é proporcionar uma estrutura modular e organizada, facilitando a manutenção e a expansão futura do código.
 
